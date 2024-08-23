@@ -10,7 +10,7 @@
 - 💻 Software Developer in the making.
 - 🌱 I'm always on the lookout for new technologies to learn and improve my software development abilities.
 - 💼 I have a background in Android development, web design, and Visual Basic programming.
-- 🌐 You can check out my resume [here]().
+- 🌐 You can check out my resume [here](https://facurosas.github.io/facuRosascv/).
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/facundo-rosas/).
 
 <br>

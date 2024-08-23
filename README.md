@@ -2,7 +2,7 @@
 <h1 align="center">Hello there! I'm Facu Rosas 👋</h1>
 </div>
 
-<img src="./banner.png" alt="Banner de Facundo Rosas">
+<img src="./banner.jpg" alt="Banner de Facundo Rosas">
 
 
 ## About Me

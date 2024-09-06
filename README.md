@@ -37,8 +37,8 @@
 <a href="a" target="_blank"><img src="ejemplo2.jpg" width="400" alt="Lubrication center management app"></a>
 <br>
 <p>
-<a href="a" target="_blank">
-<img src="a">
+<a href="https://github.com/FacuRosas/Lubricentro" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Desktop application for managing shifts, inventory, and customers at a Gulf service station lube shop.</p>

@@ -34,7 +34,7 @@
 <td width="50%">
 <h3 align="center">Lubrication center management app project</h3>
 <div align="center">                                       
-<a href="a" target="_blank"><img src="ejemplo2.jpg" width="400" alt="Lubrication center management app"></a>
+<a href="https://github.com/FacuRosas/Lubricentro" target="_blank"><img src="ejemplo2.jpg" width="400" alt="Lubrication center management app"></a>
 <br>
 <p>
 <a href="https://github.com/FacuRosas/Lubricentro" target="_blank">
